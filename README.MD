@@ -75,4 +75,5 @@ The ALX ProDev Front‑End Engineering Programme is an **8‑month online traini
 ##  Final Note
 
 This README.md serves as my personal guide and record — it reflects my journey and growth through the ALX ProDev Front‑End Engineering programme.  
+🚀
 
